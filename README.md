@@ -4,7 +4,7 @@
 [![Academic Project](https://img.shields.io/badge/Project-Master%2FBachelor%20Thesis-blue.svg)]()
 
 > **Project Status:** Active Research (Thesis Project)  
-> **Last Updated:** March 2026
+> **Last Updated:** Juli 2026
 
 ---
 
